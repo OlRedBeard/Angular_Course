@@ -1,5 +1,4 @@
 - Navigate in cmd to folder to create program in
 - Create new project with: ng new app-name --no-strict
-- Navigate into new app folder and run: ng serve [Will run on localhost:4200]
-
 - Add bootstrap from app directory: npm install --save boostrap@3
+- Navigate into new app folder and run: ng serve [Will run on localhost:4200]
